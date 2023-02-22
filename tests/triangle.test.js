@@ -14,6 +14,6 @@ describe('Triangle class', () => {
     
     it('should generate the correct SVG code', () => {
       triangle.setColor('blue');
-      expect(triangle.toSvg()).toBe('<polygon points= "150,20 295,180 5,180" fill="red"/>');
+      expect(triangle.toSvg()).toBe('<polygon points= "150,20 295,180 5,180" fill="blue"/>');
     });
   });
