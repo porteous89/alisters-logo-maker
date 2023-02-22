@@ -33,9 +33,11 @@ https://drive.google.com/file/d/1Al3cmU0YnR2Ivmm1yUcyv9coAh8cT6J-/view
 ##Screen Shots
 
 Showing validation if more than 3 letters typed
+
 <img src="assets\too-many-char.png" width= 45% >
 
 Showing "The file has been saved!" message
+
 <img src="assets\file-saved.png" width= 45% >
 
 ## Built Using
