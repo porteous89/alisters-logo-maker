@@ -41,13 +41,13 @@ Showing "The file has been saved!" message
 <img src="assets\file-saved.png" width= 45% >
 
 ## Built Using
-Node.js
-Inquirer
-Jest
+- Node.js
+- Inquirer
+- Jest
 
 ## Usage
-once install is done, open terminal and run node index. answer the prompts.
-sbg file will be generated in examples folder.
+- once install is done, open terminal and run node index. answer the prompts.
+- svg file will be generated in examples folder.
 
 ## License
 This project is licensed under the GPL license. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0) file for details.
@@ -56,7 +56,7 @@ This project is licensed under the GPL license. See the [LICENSE](https://www.gn
 ## contribution
 PLease checkout my github link for contributions -  [https://github.com/porteous89](https://github.com/porteous89).
 ## Test
-In terminal run: npm test - Will test each shape.
-In terminal run: node index - go through prompts.
+- In terminal run: npm test - Will test each shape.
+- In terminal run: node index - go through prompts.
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at alisterporteous@hotmail.com. You can find more of my work at [https://github.com/porteous89](https://github.com/porteous89).
